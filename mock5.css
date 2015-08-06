@@ -1,0 +1,17 @@
+
+table{
+  border: 2px solid black;
+}
+th{
+  display: inline-block;
+  margin-right: 15px;
+  background: #C0C0C0;
+}
+
+tr{
+  display: inline;
+}
+
+td{
+  display: table-cell;
+}

@@ -1,0 +1,15 @@
+table{
+  border: 2px solid black;
+  float: left;
+  margin-left: 80px; 
+}
+
+.button{
+  border: 2px solid black;
+  margin-left: 100px;
+  display: block;
+  float: left;
+  clear: both;
+  margin-top: 20px;
+  box-shadow: 2px 2px 2px;
+}
